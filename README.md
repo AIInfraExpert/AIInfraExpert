@@ -7,7 +7,7 @@ After building a fast-growing startup that struggled under fragmented AI infrast
 
 ---
 
-## 🚀 What I Build & Teach
+## 👩🏽‍💻 What I Build & Teach
 
 - **ScaleFactor™** — AI infrastructure diagnostic platform that benchmarks system maturity and identifies high-impact operational opportunities  
 - **Pulse™** — Daily executive AI Infrastructure feed to prime smarter decisions  
@@ -16,7 +16,7 @@ After building a fast-growing startup that struggled under fragmented AI infrast
 
 ---
 
-## 🎯 My Mission
+## ⚪️ My Mission
 
 Empower leaders to move beyond fragmented AI investments and create **living intelligence infrastructure** that drives clarity, coherence, and sustainable growth across every layer of their organization.
 
