@@ -1,24 +1,31 @@
 # 👋 Hi, I'm Ariana (aka @aiwithari)
 
-I help leaders at small to mid-sized enterprises build **intelligent leadership infrastructure** — so they can scale sustainably, reduce operational complexity, and achieve measurable ROI from AI investments.
+I help leaders at small to mid-sized enterprises build **intelligent leadership infrastructure** — enabling them to scale sustainably, reduce operational complexity, and unlock measurable ROI from AI investments.
 
-After building a fast-growing startup that struggled under fragmented AI infrastructure, I discovered a vital truth:  
-**It’s not about more tools — it’s about smarter, cohesive intelligence that flows through your entire organization.**
+After founding and scaling a startup hampered by fragmented AI infrastructure, I discovered a vital truth:  
+**Success isn’t about having more tools — it’s about cultivating smarter, cohesive intelligence that flows seamlessly throughout your entire organization.**
 
 ---
 
 ## 👩🏽‍💻 What I Build & Teach
 
-- **ScaleFactor™** — AI infrastructure diagnostic platform that benchmarks system maturity and identifies high-impact operational opportunities  
-- **Pulse™** — Daily executive AI Infrastructure feed to prime smarter decisions  
-- **Symbi™** — Real-time infrastructure monitoring & async scaling for leadership teams  
+- **SCALE Factor™** — AI infrastructure diagnostic platform benchmarking system maturity and pinpointing high-impact operational opportunities  
+- **Pulse™** — Daily executive AI infrastructure briefing to prime smarter decision-making  
+- **Symbi™** — Real-time infrastructure monitoring and async scaling platform for leadership teams  
 - **Build Your AI Operating Model™** — A 6-week live cohort program to architect AI systems that work
+
+---
+
+## 📚 Publications
+
+- **The Intelligent Infrastructure Playbook** (2025)  
+A strategic guide for executives to design scalable, ethical AI systems. Available [here](https://aiwithari.gitbook.io/intelligent-infrastructure/).
 
 ---
 
 ## ⚪️ My Mission
 
-Empower leaders to move beyond fragmented AI investments and create **living intelligence infrastructure** that drives clarity, coherence, and sustainable growth across every layer of their organization.
+Empower leaders to transcend fragmented AI investments and build **living intelligence infrastructure** that drives clarity, coherence, and sustainable growth across every layer of their organization.
 
 ---
 
@@ -38,9 +45,9 @@ Empower leaders to move beyond fragmented AI investments and create **living int
 ## 🔗 Get Involved
 
 - 💡 Subscribe to [Pulse](https://pulse.nadis.ai) — your daily AI infrastructure briefing  
-- 🚀 Join the [6-Week Program](https://scale.nadis.ai) — build your AI operating model with me  
-- 🌐 Explore [Nadis Intelligence](https://www.nadis.ai) — our AI infrastructure ecosystem
-- 📍 Book me to speak/review [My Portfolio](https://www.ariabramson.com) — booking website/work portfolio  
+- 🚀 Join the [Build Your AI Operating Model™ program](https://scale.nadis.ai)  
+- 🌐 Explore [Nadis Intelligence](https://www.nadis.ai) — AI infrastructure ecosystem  
+- 📍 Book me for speaking or consulting via [My Portfolio](https://www.ariabramson.com)  
 
 ---
 
@@ -51,4 +58,4 @@ Empower leaders to move beyond fragmented AI investments and create **living int
 
 ---
 
-*Let's build the nervous system your business needs to think faster than your market.*  
+*Let's build the nervous system your business needs to outthink and outpace your market.*
