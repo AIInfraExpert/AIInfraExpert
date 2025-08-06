@@ -9,7 +9,7 @@ After founding and scaling a startup hampered by fragmented AI infrastructure, I
 
 ## 👩🏽‍💻 What I Build & Teach
 
-- **SCALE Factor™** — AI infrastructure diagnostic platform benchmarking system maturity and pinpointing high-impact operational opportunities  
+- **SCALE Factor™** (https://scalefactor.nadis.ai) — AI infrastructure diagnostic platform benchmarking system maturity and pinpointing high-impact operational opportunities  
 - **Pulse™** — Daily executive AI infrastructure briefing to prime smarter decision-making  
 - **Symbi™** — Real-time infrastructure monitoring and async scaling platform for leadership teams  
 - **Build Your AI Operating Model™** — A 6-week live cohort program to architect AI systems that work
@@ -45,7 +45,7 @@ Empower leaders to transcend fragmented AI investments and build **living intell
 ## 🔗 Get Involved
 
 - 💡 Subscribe to [Pulse](https://pulse.nadis.ai) — your daily AI infrastructure briefing  
-- 🚀 Join the [Build Your AI Operating Model™ program](https://scale.nadis.ai)  
+- 🚀 Join the [Build Your AI Operating Model™ program](https://accelerator.nadis.ai)  
 - 🌐 Explore [Nadis Intelligence](https://www.nadis.ai) — AI infrastructure ecosystem  
 - 📍 Book me for speaking or consulting via [My Portfolio](https://www.ariabramson.com)  
 
