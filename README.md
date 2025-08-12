@@ -18,13 +18,13 @@ Founder of **Nadis Intelligence™**, where I guide $10M–$100M organizations f
 - [**SCALE Factor™**](https://scalefactor.nadis.ai) — FREE AI infrastructure diagnostic for system maturity & impact  
 - [**Pulse™**](https://pulse.nadis.ai) — FREE Daily executive AI intelligence briefing
 - [**Gipt™**](https://gipt.nadis.ai) — AI ROI tracker in 2 minutes/month  
-- **Symbi™** — Real-time infrastructure monitoring & async scaling   
+- **Symbi™** COMING SOON! — Real-time infrastructure monitoring & async scaling   
 - [**Build Your AI Operating Model™**](https://nadis.ai/accelerator) — SCALE Factor 6-week transformation program
 
 ---
 
 ## Publications
-- **You Need a Better AI Operating Model** — Executive guide to AI that actually works  
+- **You Need a Better AI Operating Model** COMING SOON! — Executive guide to AI that actually works  
 - [**The Intelligent Infrastructure Playbook**](https://freebook.nadis.ai) — FREE Strategic guide for AI at scale
 
 ---
@@ -39,7 +39,7 @@ Founder of **Nadis Intelligence™**, where I guide $10M–$100M organizations f
 ---
 
 ## Let's Work Together
-- 📘 [Get the Book-Coming Soon!](https://ariabramson.com)  
+- 📘 **Get the Book** COMING SOON! 
 - 🚀 [Join the 6-Week Program](https://nadis.ai/accelerator)  
 - 📰 [Subscribe to The Pulse™](https://pulse.nadis.ai)  
 - 💼 [Book Speaking or Consulting](https://ariabramson.com)
