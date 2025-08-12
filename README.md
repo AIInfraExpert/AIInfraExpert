@@ -6,7 +6,7 @@ I help leaders turn them into infrastructure that works — and wins.
 ---
 
 ## What I Do
-Founder of **Nadis Intelligence™**, where I guide $10M–$100M organizations from **AI sprawl** to **Living Intelligence Infrastructure™** — adaptive systems that amplify leadership, accelerate decision-making, and scale without chaos.
+Founder of **Nadis Intelligence™**, where I guide $10M–$100M organizations from **AI Tool Underutilization and Overspend** to **Living Intelligence Infrastructure™** — adaptive systems that amplify leadership, accelerate decision-making, and scale without chaos.
 
 - 📉 Reduce AI spend by up to **40%**
 - 📈 Triple effective utilization
