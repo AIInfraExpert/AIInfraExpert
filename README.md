@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Ariana (aka @AIInfraExpert)
+<p align="center">
+  <img src="assets/banner.png" alt="AI Infrastructure Expert Banner" />
+</p>
+
+# 👋 Hi, I'm Ariana aka The Infrastructure Expert (@AIInfraExpert)
 
 **Your AI investments are overspending and under-delivering.**  
 I help leaders turn them into infrastructure that works — and wins.
