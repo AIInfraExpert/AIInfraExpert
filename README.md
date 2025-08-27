@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="AI Infrastructure Expert Banner" />
+  <img src="banner.png" alt="AI Infrastructure Expert Banner" />
 </p>
 
 # 👋 Hi, I'm Ariana aka The Infrastructure Expert (@AIInfraExpert)
