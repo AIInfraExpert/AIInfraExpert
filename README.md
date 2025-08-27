@@ -29,7 +29,7 @@ Founder of **Nadis Intelligence™**, where I guide $2M–$20M organizations fro
 
 ## Publications
 - **You Need a Better AI Operating Model** COMING SOON! — Executive guide to AI that actually works  
-- [**The Intelligent Infrastructure Playbook**](https://freebook.nadis.ai) — FREE Strategic guide for AI at scale
+- [**The Intelligence Infrastructure Playbook**](https://www.nadis.ai/freebook) — FREE Strategic guide for AI at scale
 
 ---
 
@@ -43,7 +43,7 @@ Founder of **Nadis Intelligence™**, where I guide $2M–$20M organizations fro
 ---
 
 ## Let's Work Together
-- 📘 **Get the Book** COMING SOON! 
+- 📘 [Download The Intelligence Infrastructure Playbook ](https://nadis.ai/freebook)  
 - 🚀 [Join the 6-Week Program](https://nadis.ai/accelerator)  
 - 📰 [Subscribe to The Pulse™](https://pulse.nadis.ai)  
 - 💼 [Book Speaking or Consulting](https://ariabramson.com)
