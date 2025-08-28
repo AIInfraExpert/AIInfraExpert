@@ -2,52 +2,51 @@
   <img src="banner.png" alt="AI Infrastructure Expert Banner" />
 </p>
 
-# 👋 Hi, I'm Ariana aka The Infrastructure Expert (@AIInfraExpert)
+# 👋 Hi, I'm Ariana aka *The Infrastructure Expert* (@AIInfraExpert)
 
-**Your AI investments are overspending and under-delivering.**  
-I help leaders turn them into infrastructure that works — and wins.
-
----
-
-## What I Do
-Founder of **Nadis Intelligence™**, where I guide $2M–$20M organizations from **AI Tool Underutilization and Overspend** to **Living Intelligence Infrastructure™** — adaptive systems that amplify leadership, accelerate decision-making, and scale without chaos.
-
-- 📉 Reduce AI spend by up to **40%**
-- 📈 Triple effective utilization
-- ⏱ Achieve measurable ROI in 90 days
+**Your AI tools are costing you more than they’re delivering.**  
+I help leaders transform fragmented, underperforming AI investments into **Living Intelligence Infrastructure**
 
 ---
 
-## What I Build
-- [**SCALE Factor™**](https://scalefactor.nadis.ai) — FREE AI infrastructure diagnostic for system maturity & impact  
-- [**Pulse™**](https://pulse.nadis.ai) — FREE Daily executive AI intelligence briefing
-- [**Gipt™**](https://gipt.nadis.ai) — AI ROI tracker in 2 minutes/month  
-- **Symbi™** COMING SOON! — Real-time infrastructure monitoring & async scaling   
-- [**Build Your AI Operating Model™**](https://nadis.ai/accelerator) — SCALE Factor 6-week transformation program
+## 🚀 What I Do  
+Founder & CEO of **Nadis Intelligence™**, where I guide $2M–$20M organizations from **AI tool underutilization and overspend** to **Living Intelligence Infrastructure™** — adaptive systems that amplify leadership, accelerate decision-making, and deliver measurable ROI.  
+
+- 📉 Reduce AI spend by up to **40%**  
+- 📈 Triple effective utilization  
+- ⏱ Show ROI in under 90 days  
 
 ---
 
-## Publications
-- **You Need a Better AI Operating Model** COMING SOON! — Executive guide to AI that actually works  
-- [**The Intelligence Infrastructure Playbook**](https://www.nadis.ai/freebook) — FREE Strategic guide for AI at scale
+## 🛠 What I Build  
+- [**InfraOSi™**](https://nadis.ai) — The first ambient operating system for AI infrastructure  
+- [**SCALE Factor™**](https://scalefactor.nadis.ai) — FREE diagnostic that measures AI ROI & infrastructure coherence  
+- [**AI Operating Model Accelerator™**](https://nadis.ai/accelerator) — A 6-week sprint to build your AI Operating Model  
 
 ---
 
-## Areas of Focus
-- AI Infrastructure Strategy  
-- Executive AI Adoption & Enablement  
-- AI ROI Optimization  
-- GTM & Commercial AI Execution  
-- Ambient Leadership Computing™
+## 📚 Publications  
+- [**The Intelligence Infrastructure Playbook**](https://www.nadis.ai/freebook) — FREE executive guide for building intelligent infrastructure  
+- **You Need a Better AI Operating Model** *(Releasing 2026)* — A manifesto for the future of AI, operating models, and leadership  
 
 ---
 
-## Let's Work Together
-- 📘 [Download The Intelligence Infrastructure Playbook ](https://nadis.ai/freebook)  
+## 🎯 Areas of Focus  
+- AI Infrastructure Strategy & Operating Models  
+- Executive AI Adoption & C-Level Enablement  
+- AI ROI Optimization & Infrastructure Coherence  
+- Future of Work & Leadership Systems  
+- Ambient Intelligence Interfaces  
+
+---
+
+## 🤝 Let's Work Together  
+- 📘 [Download The Intelligence Infrastructure Playbook](https://nadis.ai/freebook)  
 - 🚀 [Join the 6-Week Program](https://nadis.ai/accelerator)  
 - 📰 [Subscribe to The Pulse™](https://pulse.nadis.ai)  
-- 💼 [Book Speaking or Consulting](https://ariabramson.com)
+- 💼 [Book Speaking or Consulting](https://ariabramson.com)  
 
 ---
 
-*"Most leaders are solving tomorrow’s problems with yesterday’s infrastructure. I build systems that think ahead."*
+> *"Most leaders are solving tomorrow’s problems with yesterday’s infrastructure. I build systems that think ahead."*  
+
