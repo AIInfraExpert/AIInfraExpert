@@ -19,8 +19,8 @@ Founder & CEO of **Nadis Intelligence™**, where I guide $2M–$20M organizatio
 ---
 
 ## 🛠 What I Build  
-- [**InfraOSi™**](https://nadis.ai) — The first ambient operating system for AI infrastructure  
 - [**SCALE Factor™**](https://scalefactor.nadis.ai) — FREE diagnostic that measures AI ROI & infrastructure coherence  
+- [**InfraOSi™**](https://nadis.ai) — The first ambient operating system for AI infrastructure  
 - [**AI Operating Model Accelerator™**](https://nadis.ai/accelerator) — A 6-week sprint to build your AI Operating Model  
 
 ---
