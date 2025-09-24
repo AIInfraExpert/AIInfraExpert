@@ -9,7 +9,7 @@ I help leaders transform fragmented, underperforming AI investments into **Livin
 
 ---
 
-## 🚀 What I Do  
+## What I Do  
 Founder & CEO of **Nadis Intelligence™**, where I guide $2M–$20M organizations from **AI tool underutilization and overspend** to **Living Intelligence Infrastructure™** — adaptive systems that amplify leadership, accelerate decision-making, and deliver measurable ROI.  
 
 - 📉 Reduce AI spend by up to **40%**  
@@ -18,20 +18,20 @@ Founder & CEO of **Nadis Intelligence™**, where I guide $2M–$20M organizatio
 
 ---
 
-## 🛠 What I Build  
+## What I Built  
 - [**SCALE Factor™**](https://scalefactor.nadis.ai) — FREE diagnostic that measures AI ROI & infrastructure coherence  
 - [**InfraOSi™**](https://nadis.ai) — The first ambient operating system for AI infrastructure  
 - [**AI Operating Model Accelerator™**](https://nadis.ai/accelerator) — A 6-week sprint to build your AI Operating Model  
 
 ---
 
-## 📚 Publications  
+## Publications  
 - [**The Intelligence Infrastructure Playbook**](https://www.nadis.ai/freebook) — FREE executive guide for building intelligent infrastructure  
 - **You Need a Better AI Operating Model** *(Releasing 2026)* — A manifesto for the future of AI, operating models, and leadership  
 
 ---
 
-## 🎯 Areas of Focus  
+## Areas of Focus  
 - AI Infrastructure Strategy & Operating Models  
 - Executive AI Adoption & C-Level Enablement  
 - AI ROI Optimization & Infrastructure Coherence  
@@ -40,7 +40,7 @@ Founder & CEO of **Nadis Intelligence™**, where I guide $2M–$20M organizatio
 
 ---
 
-## 🤝 Let's Work Together  
+## Let's Work Together  
 - 📘 [Download The Intelligence Infrastructure Playbook](https://nadis.ai/freebook)  
 - 🚀 [Join the 6-Week Program](https://nadis.ai/accelerator)  
 - 📰 [Subscribe to The Pulse™](https://pulse.nadis.ai)  
